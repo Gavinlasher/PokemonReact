@@ -1,7 +1,16 @@
 .App {
   text-align: center;
 }
-
+.pp{
+  height: 10vh;
+  width: 10vh;
+color: white;
+}
+.pimg{
+  height: 30vh;
+  width: 30vh;
+  /* object-fit: cover; */
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
